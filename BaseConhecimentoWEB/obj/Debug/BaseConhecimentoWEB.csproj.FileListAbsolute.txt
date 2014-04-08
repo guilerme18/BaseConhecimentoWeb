@@ -1,0 +1,5 @@
+C:\Users\guilhermec\GitHubParticular\BaseConhecimentoWEB\BaseConhecimentoWEB\bin\BaseConhecimentoWEB.dll
+C:\Users\guilhermec\GitHubParticular\BaseConhecimentoWEB\BaseConhecimentoWEB\bin\BaseConhecimentoWEB.pdb
+C:\Users\guilhermec\GitHubParticular\BaseConhecimentoWEB\BaseConhecimentoWEB\obj\Debug\BaseConhecimentoWEB.csprojResolveAssemblyReference.cache
+C:\Users\guilhermec\GitHubParticular\BaseConhecimentoWEB\BaseConhecimentoWEB\obj\Debug\BaseConhecimentoWEB.dll
+C:\Users\guilhermec\GitHubParticular\BaseConhecimentoWEB\BaseConhecimentoWEB\obj\Debug\BaseConhecimentoWEB.pdb
